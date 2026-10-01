@@ -1,4 +1,5 @@
 # M5StickC PLUS2 – Live Microphone Web Stream
+## I am as of 01-10-2026 Working on a new version!
 
 Stream **real-time microphone audio** from an **M5StickC PLUS2** over Wi-Fi and listen directly in a **web browser**.
 
